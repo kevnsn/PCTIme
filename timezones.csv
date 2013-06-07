@@ -1,0 +1,71 @@
+-5,Peace Corps HQ,UTC-5,TRUE
+-5,Jamaica,UTC-5,TRUE
+-4,Dominican Republic,UTC-4,TRUE
+-4,Eastern Caribbean,UTC-4,TRUE
+-6,Belize,UTC-6,TRUE
+-6,Costa Rica,UTC-6,TRUE
+-6,El Salvador,UTC-6,TRUE
+-6,Guatemala,UTC-6,TRUE
+-6,Honduras,UTC-6,TRUE
+-6,Mexico,UTC-6,TRUE
+-6,Nicaragua,UTC-6,TRUE
+-5,Panama,UTC-5,TRUE
+-5,Colombia,UTC-5,TRUE
+-5,Ecuador,UTC-5,TRUE
+-4,Guyana,UTC-4,TRUE
+-4,Paraguay,UTC-4,TRUE
+-5,Peru,UTC-5,TRUE
+-3,Suriname,UTC-3,TRUE
+1,Benin,UTC+1,TRUE
+2,Botswana,UTC+2,TRUE
+0,Burkina Faso,UTC+0,TRUE
+1,Cameroon,UTC+1,TRUE
+-1,Cape Verde,UTC-1,TRUE
+3,Ethiopia,UTC+3,TRUE
+0,Ghana,UTC+0,TRUE
+0,Guinea,UTC+0,TRUE
+3,Kenya,UTC+3,TRUE
+2,Lesotho,UTC+2,TRUE
+0,Liberia,UTC+0,TRUE
+3,Madagascar,UTC+3,TRUE
+2,Malawi,UTC+2,TRUE
+0,Mali,UTC+0,TRUE
+2,Mozambique,UTC+2,TRUE
+1,Namibia,UTC+1,TRUE
+1,Niger (suspended),UTC+1,TRUE
+2,Rwanda,UTC+2,TRUE
+0,Senegal,UTC+0,TRUE
+0,Sierra Leone,UTC+0,TRUE
+2,South Africa,UTC+2,TRUE
+2,Swaziland,UTC+2,TRUE
+3,Tanzania,UTC+3,TRUE
+0,The Gambia,UTC+0,TRUE
+0,Togo,UTC+0,TRUE
+3,Uganda,UTC+3,TRUE
+2,Zambia,UTC+2,TRUE
+3,Jordan,UTC+3,TRUE
+0,Morocco,UTC+0,TRUE
+1,Albania,UTC+1,TRUE
+2,Armenia,UTC+2,TRUE
+4,Azerbaijan,UTC+4,TRUE
+2,Bulgaria,UTC+2,TRUE
+4,Georgia,UTC+4,TRUE
+6,Kazakhstan,UTC+6,TRUE
+6,Kyrgyz Republic,UTC+6,TRUE
+1,Macedonia,UTC+1,TRUE
+2,Moldova,UTC+2,TRUE
+2,Romania,UTC+2,TRUE
+2,Ukraine,UTC+2,TRUE
+7,Cambodia,UTC+7,TRUE
+8,China,UTC+8,TRUE
+8,Indonesia,UTC+8,TRUE
+8,Mongolia,UTC+8,TRUE
+6,Nepal,UTC+5.75,TRUE
+8,Philippines,UTC+8,TRUE
+7,Thailand,UTC+7,TRUE
+12,Fiji,UTC+12,TRUE
+11,Micronesia,UTC+11,TRUE
+9,Palau,UTC+9,TRUE
+13,Samoa,UTC+13,TRUE
+13,Tonga,UTC+13,TRUE
+11,Vanuatu,UTC+11,TRUE
